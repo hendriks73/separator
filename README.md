@@ -20,6 +20,9 @@ by Zafar Rafii and Bryan Pardo
 - [Harmonic/percussive separation using median filtering](http://dafx10.iem.at/papers/DerryFitzGerald_DAFx10_P15.pdf)
 by Derry FitzGerald
 
+*Separator* itself is built based on the audio feature extraction library
+[jipes](http://www.tagtraum.com/jipes/).
+
 
 ## How to Build
 
